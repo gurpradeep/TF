@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8232c0fe-3d0c-42df-a52d-6746effc0551" name="Default Changelist" comment="Initial versio" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="713140e4-634f-4f51-9f63-d88cff88da01" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/gurpradeep/TF2" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hmpfJ2T9oarlX9w8AAfALLqfKD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Longestdecreasing.py" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/Longestdecreasing.py" />
+  </component>
+  <component name="RunManager">
+    <configuration name="pyconfig" type="PythonConfigurationType" factoryName="Python">
+      <module name="TF2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Pradeep Gupta\.virtualenvs\TF2\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="false" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Longestdecreasing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8232c0fe-3d0c-42df-a52d-6746effc0551" name="Default Changelist" comment="" />
+      <created>1600626223766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600626223766</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added comments">
+      <created>1601842208295</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601842208295</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added comments">
+      <created>1601874897504</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601874897504</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial versio">
+      <created>1601875373662</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601875373662</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="Paths">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="dir:C:/gitrepos/TF2" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added comments" />
+    <MESSAGE value="Initial versio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial versio" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="379" y="164" key="#Notifications" timestamp="1601875913197">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="379" y="164" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1601875913197" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601837764381">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1601837764381" />
+    <state x="93" y="93" width="1093" height="493" key="DiffContextDialog" timestamp="1601875561504">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1093" height="493" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1601875561504" />
+    <state x="422" y="96" key="FileChooserDialogImpl" timestamp="1601842050089">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="422" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1601842050089" />
+    <state x="464" y="242" key="Github.CreateGistDialog" timestamp="1601841535167">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="464" y="242" key="Github.CreateGistDialog/0.0.1280.680@0.0.1280.680" timestamp="1601841535167" />
+    <state x="510" y="238" key="Github.ShareDialog" timestamp="1601842006998">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="510" y="238" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1601842006998" />
+    <state width="1260" height="163" key="GridCell.Tab.0.bottom" timestamp="1601842212261">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1260" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1601842212261" />
+    <state width="1260" height="163" key="GridCell.Tab.0.center" timestamp="1601842212261">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1260" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1601842212261" />
+    <state width="1260" height="163" key="GridCell.Tab.0.left" timestamp="1601842212261">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1260" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1601842212261" />
+    <state width="1260" height="163" key="GridCell.Tab.0.right" timestamp="1601842212261">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1260" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1601842212261" />
+    <state width="1260" height="204" key="GridCell.Tab.1.bottom" timestamp="1601841119968">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1260" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1601841119968" />
+    <state width="1260" height="204" key="GridCell.Tab.1.center" timestamp="1601841119968">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1260" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1601841119968" />
+    <state width="1260" height="204" key="GridCell.Tab.1.left" timestamp="1601841119968">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1260" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1601841119968" />
+    <state width="1260" height="204" key="GridCell.Tab.1.right" timestamp="1601841119968">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1260" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1601841119968" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1601876192639">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1601876192639" />
+    <state x="489" y="253" key="VCS.ChangelistChooser" timestamp="1601842174491">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="489" y="253" key="VCS.ChangelistChooser/0.0.1280.680@0.0.1280.680" timestamp="1601842174491" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1601875948624">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601875948624" />
+    <state x="422" y="146" key="git4idea.history.wholeTree.VcsStructureChooser" timestamp="1601841510024">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="422" y="146" key="git4idea.history.wholeTree.VcsStructureChooser/0.0.1280.680@0.0.1280.680" timestamp="1601841510024" />
+    <state x="440" y="241" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601875828444">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="440" y="241" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.680@0.0.1280.680" timestamp="1601875828444" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/first.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Second.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TestIncrement.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TestIncrement.py</url>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TestIncrement.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Testscope.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Testscope.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Testscope.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Testscope.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Longestdecreasing.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="x" />
+        <watch expression="increment_by_i" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
