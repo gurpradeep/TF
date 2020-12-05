@@ -4,32 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </select>
+    <expand />
+    <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8232c0fe-3d0c-42df-a52d-6746effc0551" name="Default Changelist" comment="Initial versio" />
+    <list default="true" id="8232c0fe-3d0c-42df-a52d-6746effc0551" name="Default Changelist" comment="Initial versio">
+      <change afterPath="$PROJECT_DIR$/AirPassengers.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BigString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountofSteps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Forecast.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leaderelection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LongestIncreasingSequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaxSubsetNoAdjacent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MergeList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SquareofZeros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Timeseries.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,21 +58,24 @@
     </option>
   </component>
   <component name="ProjectId" id="1hmpfJ2T9oarlX9w8AAfALLqfKD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Longestdecreasing.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MergeList.py" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/Longestdecreasing.py" />
   </component>
   <component name="RunManager">
-    <configuration name="pyconfig" type="PythonConfigurationType" factoryName="Python">
-      <module name="TF2" />
+    <configuration name="LeaderElectionConfig" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -92,8 +86,9 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="false" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Longestdecreasing.py" />
-      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MergeList.py" />
+      <option name="PARAMETERS" value="server1" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -206,71 +201,84 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Added comments" />
     <MESSAGE value="Initial versio" />
     <option name="LAST_COMMIT_MESSAGE" value="Initial versio" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="379" y="164" key="#Notifications" timestamp="1601875913197">
+    <state x="267" y="18" key="#Inspections" timestamp="1603023230637">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="379" y="164" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1601875913197" />
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601837764381">
+    <state x="267" y="18" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1603023230637" />
+    <state x="379" y="164" key="#Notifications" timestamp="1603038965949">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1601837764381" />
-    <state x="93" y="93" width="1093" height="493" key="DiffContextDialog" timestamp="1601875561504">
+    <state x="379" y="164" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1603038965949" />
+    <state x="109" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605901102446">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="93" y="93" width="1093" height="493" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1601875561504" />
-    <state x="422" y="96" key="FileChooserDialogImpl" timestamp="1601842050089">
+    <state x="109" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1605901102446" />
+    <state width="657" height="466" key="DebuggerActiveHint" timestamp="1605259156249">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="422" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1601842050089" />
+    <state width="657" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1605259156249" />
+    <state x="93" y="93" width="1093" height="493" key="DiffContextDialog" timestamp="1601880795990">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1093" height="493" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1601880795990" />
+    <state x="422" y="96" key="FileChooserDialogImpl" timestamp="1605901097603">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="422" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1605901097603" />
     <state x="464" y="242" key="Github.CreateGistDialog" timestamp="1601841535167">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="464" y="242" key="Github.CreateGistDialog/0.0.1280.680@0.0.1280.680" timestamp="1601841535167" />
-    <state x="510" y="238" key="Github.ShareDialog" timestamp="1601842006998">
+    <state x="510" y="238" key="Github.ShareDialog" timestamp="1601876229045">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="510" y="238" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1601842006998" />
-    <state width="1260" height="163" key="GridCell.Tab.0.bottom" timestamp="1601842212261">
+    <state x="510" y="238" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1601876229045" />
+    <state x="510" y="45" key="Github.UntrackedFilesDialog" timestamp="1601876258002">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1260" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1601842212261" />
-    <state width="1260" height="163" key="GridCell.Tab.0.center" timestamp="1601842212261">
+    <state x="510" y="45" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1601876258002" />
+    <state width="1260" height="213" key="GridCell.Tab.0.bottom" timestamp="1605982094494">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1260" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1601842212261" />
-    <state width="1260" height="163" key="GridCell.Tab.0.left" timestamp="1601842212261">
+    <state width="1260" height="213" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605982094494" />
+    <state width="1260" height="213" key="GridCell.Tab.0.center" timestamp="1605982094494">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1260" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1601842212261" />
-    <state width="1260" height="163" key="GridCell.Tab.0.right" timestamp="1601842212261">
+    <state width="1260" height="213" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1605982094494" />
+    <state width="1260" height="213" key="GridCell.Tab.0.left" timestamp="1605982094494">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1260" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1601842212261" />
-    <state width="1260" height="204" key="GridCell.Tab.1.bottom" timestamp="1601841119968">
+    <state width="1260" height="213" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1605982094494" />
+    <state width="1260" height="213" key="GridCell.Tab.0.right" timestamp="1605982094494">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1260" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1601841119968" />
-    <state width="1260" height="204" key="GridCell.Tab.1.center" timestamp="1601841119968">
+    <state width="1260" height="213" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1605982094494" />
+    <state width="1260" height="213" key="GridCell.Tab.1.bottom" timestamp="1605982094494">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1260" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1601841119968" />
-    <state width="1260" height="204" key="GridCell.Tab.1.left" timestamp="1601841119968">
+    <state width="1260" height="213" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605982094494" />
+    <state width="1260" height="213" key="GridCell.Tab.1.center" timestamp="1605982094494">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1260" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1601841119968" />
-    <state width="1260" height="204" key="GridCell.Tab.1.right" timestamp="1601841119968">
+    <state width="1260" height="213" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1605982094494" />
+    <state width="1260" height="213" key="GridCell.Tab.1.left" timestamp="1605982094494">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1260" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1601841119968" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1601876192639">
+    <state width="1260" height="213" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1605982094494" />
+    <state width="1260" height="213" key="GridCell.Tab.1.right" timestamp="1605982094494">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1601876192639" />
+    <state width="1260" height="213" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1605982094494" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1605266572387">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1605266572387" />
     <state x="489" y="253" key="VCS.ChangelistChooser" timestamp="1601842174491">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -279,6 +287,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601875948624" />
+    <state x="202" y="69" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1602234908186">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="202" y="69" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1602234908186" />
     <state x="422" y="146" key="git4idea.history.wholeTree.VcsStructureChooser" timestamp="1601841510024">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -287,6 +299,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="440" y="241" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.680@0.0.1280.680" timestamp="1601875828444" />
+    <state x="303" y="2" width="672" height="678" key="search.everywhere.popup" timestamp="1603640642921">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="2" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1603640642921" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -301,7 +317,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/TestIncrement.py</url>
-          <line>11</line>
+          <line>3</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -310,7 +326,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/TestIncrement.py</url>
-          <line>5</line>
+          <line>2</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -338,12 +354,176 @@
           <line>7</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CountofSteps.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CountofSteps.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CountofSteps.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CountofSteps.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BigString.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BigString.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BigString.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BigString.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BigString.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BigString.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Forecast.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Forecast.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Forecast.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Forecast.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Timeseries.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Timeseries.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MaxSubsetNoAdjacent.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MaxSubsetNoAdjacent.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LongestIncreasingSequence.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LongestIncreasingSequence.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leaderelection.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leaderelection.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MergeList.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MergeList.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MergeList.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MergeList.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MergeList.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MergeList.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MergeList.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MergeList.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MergeList.py</url>
+          <line>94</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
         <watch expression="x" />
         <watch expression="increment_by_i" />
+        <watch expression="wordsDict" />
+        <watch expression="right" />
       </configuration>
     </watches-manager>
   </component>
